@@ -1,0 +1,16 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "birthDate": "12/12/2002",
+    "jobTitle": "Tester",
+    "jobDescription": "Automation tester",
+    "germanJobDescription": "ok",
+    "startDate": "27/09/2024",
+    "endDate": "27/09/2025",
+    "signatoryName": "John",
+    "signatoryTitle": "Automation",
+    "signatoryEmail": "ma@example.com",
+    "salary": "4000",
+    "talentEmail": "M2a@example.com"
+  }
+  
